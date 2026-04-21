@@ -1,0 +1,40 @@
+{
+  "platform_id": "nasa-firms",
+  "platform_name": "NASA FIRMS",
+  "homepage": "https://firms.modaps.eosdis.nasa.gov",
+  "category": "osint_monitor_general",
+  "fetched_at": "2026-04-21T10:53:55.869040+00:00",
+  "error": "",
+  "items": [
+    {
+      "title_en": "Greece fire map from July 19th 2023",
+      "title_tr": "19 Temmuz 2023 tarihli Yunanistan yangın haritası",
+      "url": "https://firms.modaps.eosdis.nasa.gov/map/#t:adv;m:advanced,custom;d:2023-07-19;l:viirs,country-outline,viirs_crtc;@25.8,37.0,7z",
+      "date": "2023-07-19"
+    },
+    {
+      "title_en": "Wildfire in Alberta Province, Canada on May 5th 2023",
+      "title_tr": "5 Mayıs 2023 tarihinde Kanada Alberta Eyaleti'nde orman yangını",
+      "url": "https://firms.modaps.eosdis.nasa.gov/map/#t:adv;m:advanced,custom;d:2023-05-05;l:noaa20-viirs,countries,noaa20_m11;@-115.5,53.8,8z",
+      "date": "2023-05-05"
+    },
+    {
+      "title_en": "Wildfire in Quebec Province, Canada from June 4-8 2023",
+      "title_tr": "4-8 Haziran 2023 tarihlerinde Kanada Quebec Eyaleti'nde orman yangını",
+      "url": "https://firms.modaps.eosdis.nasa.gov/map/#t:adv;m:advanced,custom;d:2023-06-04..2023-06-08,2023-06-08;l:countries,aqua_srb721;@-75.7,52.8,9z",
+      "date": "2023-06-08"
+    },
+    {
+      "title_en": "Biobío Region, Chile fire map from February 3rd 2023",
+      "title_tr": "3 Şubat 2023 tarihli Şili Biobío Bölgesi yangın haritası",
+      "url": "https://firms.modaps.eosdis.nasa.gov/map/#t:adv;m:advanced,custom;d:2023-02-03;l:countries,aqua_srb721;@-73.4,-37.2,9z",
+      "date": "2023-02-03"
+    },
+    {
+      "title_en": "Sentinel 2 imagery of Biobío Region, Chile from February 17th 2023",
+      "title_tr": "17 Şubat 2023 tarihli Şili Biobío Bölgesi Sentinel 2 görüntüsü",
+      "url": "https://firms.modaps.eosdis.nasa.gov/map/#t:adv;m:advanced,custom;d:2023-02-17;l:countries,aws-hlss30-false-color;@-72.7,-37.4,10z",
+      "date": "2023-02-17"
+    }
+  ]
+}

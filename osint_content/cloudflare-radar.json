@@ -1,0 +1,40 @@
+{
+  "platform_id": "cloudflare-radar",
+  "platform_name": "Cloudflare Radar",
+  "homepage": "https://radar.cloudflare.com",
+  "category": "osint_monitor_general",
+  "fetched_at": "2026-04-21T10:53:55.869040+00:00",
+  "error": "",
+  "items": [
+    {
+      "title_en": "Sudan nationwide internet outage observed April 20, 2026",
+      "title_tr": "Sudan'da 20 Nisan 2026'da gözlemlenen ulusal internet kesintisi",
+      "url": "https://radar.cloudflare.com/outage-center?dateRange=12w",
+      "date": "2026-04-20"
+    },
+    {
+      "title_en": "DDoS threat report for 2025 Q4: Application and Network layer attack trends",
+      "title_tr": "2025 Q4 DDoS tehdit raporu: Uygulama ve Ağ katmanı saldırı trendleri",
+      "url": "https://radar.cloudflare.com/reports",
+      "date": "2025-12-31"
+    },
+    {
+      "title_en": "Agent Readiness Scan: URL Scanner checks website readiness for AI agents",
+      "title_tr": "Ajan Hazırlık Taraması: URL Tarayıcı web sitesi AI ajanları için hazırlığı kontrol eder",
+      "url": "https://radar.cloudflare.com/scan",
+      "date": "2026-04-01"
+    },
+    {
+      "title_en": "Traffic trends worldwide: Bytes transferred over last 7 days",
+      "title_tr": "Dünya çapında trafik trendleri: Son 7 günde aktarılan baytlar",
+      "url": "https://radar.cloudflare.com/traffic",
+      "date": ""
+    },
+    {
+      "title_en": "Internet Protocol versions worldwide: IPv4 vs IPv6 adoption",
+      "title_tr": "Dünya çapında İnternet Protokolü versiyonları: IPv4 vs IPv6 benimseme",
+      "url": "https://radar.cloudflare.com/adoption-and-usage#ipv4-vs-ipv6",
+      "date": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "platform_id": "trase",
+  "platform_name": "Trase",
+  "homepage": "https://trase.earth",
+  "category": "osint_monitor_trade",
+  "fetched_at": "2026-04-21T10:53:55.869040+00:00",
+  "error": "",
+  "items": [
+    {
+      "title_en": "New analysis shows EU could significantly cut deforestation footprint with a mix of policy tools",
+      "title_tr": "Yeni analiz, AB'nin politika araçları karışımıyla ormansızlaşma ayak izini önemli ölçüde azaltabileceğini gösteriyor",
+      "url": "https://trase.earth/insights/new-analysis-shows-eu-could-significantly-cut-deforestation-footprint-with-a-mix-of-policy-tools",
+      "date": "2026-04-08"
+    },
+    {
+      "title_en": "Trase 2015-2025: Ten years of impact",
+      "title_tr": "Trase 2015-2025: On yıllık etki",
+      "url": "https://trase.earth/trase-at-ten",
+      "date": ""
+    },
+    {
+      "title_en": "Can a 'Beijing-Brasília effect' help end deforestation?",
+      "title_tr": "'Pekin-Brasília etkisi' ormansızlaşmayı sonlandırmaya yardımcı olabilir mi?",
+      "url": "https://trase.earth/insights/can-a-beijing-brasilia-effect-help-end-deforestation",
+      "date": ""
+    },
+    {
+      "title_en": "Domestic food crops overlooked as driver of deforestation",
+      "title_tr": "Yerel gıda ürünleri ormansızlaşma itici gücü olarak göz ardı ediliyor",
+      "url": "https://trase.earth/insights/domestic-food-crops-overlooked-as-driver-of-deforestation",
+      "date": ""
+    },
+    {
+      "title_en": "Trase uses AI to close the traceability gap in the soy supply chain",
+      "title_tr": "Trase, soya tedarik zincirindeki izlenebilirlik açığını kapatmak için yapay zeka kullanıyor",
+      "url": "https://trase.earth/insights/trase-uses-ai-to-close-the-traceability-gap-in-the-soy-supply-chain",
+      "date": ""
+    }
+  ]
+}

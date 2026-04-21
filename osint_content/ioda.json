@@ -1,0 +1,34 @@
+{
+  "platform_id": "ioda",
+  "platform_name": "IODA (Internet Outage Detection and Analysis)",
+  "homepage": "https://ioda.inetintel.cc.gatech.edu",
+  "category": "osint_monitor_general",
+  "fetched_at": "2026-04-21T10:53:55.869040+00:00",
+  "error": "",
+  "items": [
+    {
+      "title_en": "Iranian Internet Pro implementation visible in IODA data since April 14",
+      "title_tr": "IODA verilerinde 14 Nisan'dan beri görülen İran İnternet Pro uygulaması",
+      "url": "https://ioda.inetintel.cc.gatech.edu/country/IR?f...",
+      "date": "2026-04-20"
+    },
+    {
+      "title_en": "Sharif University of Technology (AS12660) went offline after airstrikes",
+      "title_tr": "Hava saldırıları sonrası Şerif Teknoloji Üniversitesi (AS12660) çevrimdışı kaldı",
+      "url": "https://ioda.inetintel.cc.gatech.edu/asn/12660-IR...",
+      "date": "2026-04-06"
+    },
+    {
+      "title_en": "Amazon Web Services (AS16509) in Bahrain outage visible in IODA",
+      "title_tr": "IODA'da görülen Bahreyn'deki Amazon Web Services (AS16509) kesintisi",
+      "url": "https://ioda.inetintel.cc.gatech.edu/asn/16509-BH...",
+      "date": "2026-04-02"
+    },
+    {
+      "title_en": "Recent Outages Dashboard showing last 24 hours of outage data",
+      "title_tr": "Son 24 saatlik kesinti verilerini gösteren Güncel Kesintiler Panosu",
+      "url": "https://ioda.inetintel.cc.gatech.edu/dashboard",
+      "date": ""
+    }
+  ]
+}

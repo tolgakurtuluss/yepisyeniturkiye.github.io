@@ -1,0 +1,40 @@
+{
+  "platform_id": "oec",
+  "platform_name": "Observatory of Economic Complexity",
+  "homepage": "https://oec.world",
+  "category": "osint_monitor_trade",
+  "fetched_at": "2026-04-21T10:53:55.869040+00:00",
+  "error": "",
+  "items": [
+    {
+      "title_en": "Latest trade data updates for multiple countries including Argentina, Brazil, Chile, China, India, Norway, Qatar, Singapore, South Africa, South Korea, United States",
+      "title_tr": "Arjantin, Brezilya, Şili, Çin, Hindistan, Norveç, Katar, Singapur, Güney Afrika, Güney Kore, Amerika Birleşik Devletleri dahil birçok ülke için en son ticaret verisi güncellemeleri",
+      "url": "https://oec.world/data-updates",
+      "date": "2026-02-01"
+    },
+    {
+      "title_en": "BotMarket - Data Marketplace for AI Agents",
+      "title_tr": "BotMarket - Yapay Zeka Ajanları için Veri Pazarı",
+      "url": "https://botmarket.oec.world/",
+      "date": ""
+    },
+    {
+      "title_en": "Country Rankings 2024 for trade",
+      "title_tr": "2024 Ticaret için Ülke Sıralamaları",
+      "url": "https://oec.world/en/country-rankings/2024/trade",
+      "date": "2024-01-01"
+    },
+    {
+      "title_en": "Product Rankings 2024 for trade",
+      "title_tr": "2024 Ticaret için Ürün Sıralamaları",
+      "url": "https://oec.world/en/product-rankings/2024/trade",
+      "date": "2024-01-01"
+    },
+    {
+      "title_en": "Tariff Simulator Report for trade policy impact analysis",
+      "title_tr": "Ticaret politikası etki analizi için Tarife Simülatörü Raporu",
+      "url": "https://oec.world/en/tariff-simulator-report",
+      "date": ""
+    }
+  ]
+}
