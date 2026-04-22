@@ -3,37 +3,25 @@
   "platform_name": "UN Comtrade",
   "homepage": "https://comtradeplus.un.org",
   "category": "osint_monitor_trade",
-  "fetched_at": "2026-04-21T10:53:55.869040+00:00",
+  "fetched_at": "2026-04-22T10:49:02.763226+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "Comtrade Trend: Data processing pipeline status and upcoming releases",
-      "title_tr": "Comtrade Trend: Veri işleme hattı durumu ve yaklaşan yayınlar",
-      "url": "https://comtradeplus.un.org/",
-      "date": ""
-    },
-    {
-      "title_en": "Recent Releases page for latest data updates",
-      "title_tr": "En son veri güncellemeleri için Son Yayınlar sayfası",
-      "url": "https://comtradeplus.un.org/RecentReleases",
-      "date": ""
-    },
-    {
-      "title_en": "Data Availability dashboard with detailed processing statistics",
-      "title_tr": "Ayrıntılı işleme istatistikleri ile Veri Kullanılabilirliği panosu",
+      "title_en": "Data Availability Dashboard: Registered, In Processing, In Review",
+      "title_tr": "Veri Kullanılabilirliği Panosu: Kayıtlı, İşleniyor, İncelemede",
       "url": "https://comtradeplus.un.org/DataAvailability",
       "date": ""
     },
     {
-      "title_en": "Visualization dashboard for exploring trade data",
-      "title_tr": "Ticaret verilerini keşfetmek için görselleştirme panosu",
-      "url": "https://comtradeplus.un.org/Visualization/DADashboard",
+      "title_en": "Recent Releases: Upcoming and Released Datasets",
+      "title_tr": "Son Yayınlar: Yaklaşan ve Yayınlanan Veri Kümeleri",
+      "url": "https://comtradeplus.un.org/RecentReleases",
       "date": ""
     },
     {
-      "title_en": "Changelog documenting platform updates and changes",
-      "title_tr": "Platform güncellemelerini ve değişikliklerini belgeleyen Değişiklik Günlüğü",
-      "url": "https://comtradeplus.un.org/ChangeLog",
+      "title_en": "HS Tracker by WTO - Trade Data Visualization",
+      "title_tr": "DTÖ tarafından HS İzleyici - Ticaret Veri Görselleştirmesi",
+      "url": "https://comtradeplus.un.org/Visualization/Labs",
       "date": ""
     }
   ]

@@ -3,38 +3,38 @@
   "platform_name": "OpenSanctions",
   "homepage": "https://www.opensanctions.org",
   "category": "osint_monitor_sanctions",
-  "fetched_at": "2026-04-21T10:53:55.869040+00:00",
+  "fetched_at": "2026-04-22T10:49:02.763226+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "Introducing PoliLoom: crowdsourcing tool to fill Wikidata political data gaps",
-      "title_tr": "PoliLoom tanıtımı: Wikidata siyasi veri boşluklarını doldurmak için kitle kaynak aracı",
+      "title_en": "Introducing PoliLoom: crowdsourcing tool for political data",
+      "title_tr": "PoliLoom Tanıtımı: siyasi veri için kitle kaynak aracı",
       "url": "https://www.opensanctions.org/articles/2026-03-24-poliloom/",
       "date": "2026-03-24"
     },
     {
-      "title_en": "Global map of political power launched as CIA closes The World Factbook",
-      "title_tr": "CIA Dünya Factbook'u kapatırken küresel siyasi güç haritası başlatıldı",
+      "title_en": "As CIA closes The World Factbook, we open global map of political power",
+      "title_tr": "CIA Dünya Bilgi Kitabı'nı kapatırken, küresel siyasi güç haritamızı açıyoruz",
       "url": "https://www.opensanctions.org/articles/2026-02-18-every-politician/",
       "date": "2026-02-18"
     },
     {
-      "title_en": "OpenSanctions and Taktile partner to combine data with AI screening",
-      "title_tr": "OpenSanctions ve Taktile, veri ile AI taramasını birleştirmek için ortaklık kurdu",
-      "url": "https://www.opensanctions.org/articles/2025-12-15-taktile-partnership/",
-      "date": "2025-12-15"
-    },
-    {
-      "title_en": "Dataset browser guide for exploring 320+ sanctions data sources",
-      "title_tr": "320'den fazla yaptırım veri kaynağını keşfetmek için veri seti tarayıcı kılavuzu",
+      "title_en": "Making the most of the OpenSanctions dataset browser",
+      "title_tr": "OpenSanctions veri kümesi tarayıcısından en iyi şekilde yararlanma",
       "url": "https://www.opensanctions.org/articles/2026-01-28-dataset-browser/",
       "date": "2026-01-28"
     },
     {
-      "title_en": "2025 year in review: team growth, new office, and product focus",
-      "title_tr": "2025 yılı değerlendirmesi: ekip büyümesi, yeni ofis ve ürün odaklılık",
+      "title_en": "This was 2025 at OpenSanctions",
+      "title_tr": "OpenSanctions'ta 2025 böyle geçti",
       "url": "https://www.opensanctions.org/articles/2025-review/",
       "date": "2025-12-18"
+    },
+    {
+      "title_en": "OpenSanctions and Taktile partner for stronger data and smarter screening",
+      "title_tr": "OpenSanctions ve Taktile, daha güçlü veri ve daha akıllı tarama için ortak oldu",
+      "url": "https://www.opensanctions.org/articles/2025-12-15-taktile-partnership/",
+      "date": "2025-12-15"
     }
   ]
 }

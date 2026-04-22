@@ -3,7 +3,7 @@
   "platform_name": "ACLED",
   "homepage": "https://acleddata.com",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-04-21T10:53:55.869040+00:00",
+  "fetched_at": "2026-04-22T10:49:02.763226+00:00",
   "error": "",
   "items": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "title_en": "United behind the ceasefire even as divisions loom: Gulf countries navigate US-Iran talks",
-      "title_tr": "Bölünmeler belirirken ateşkes arkasında birleşmiş: Körfez ülkeleri ABD-İran görüşmelerini yönetiyor",
+      "title_tr": "Bölünmeler yaklaşırken ateşkesin arkasında birleşmek: Körfez ülkeleri ABD-İran görüşmelerini yönetiyor",
       "url": "https://acleddata.com/report/united-behind-ceasefire-even-divisions-loom-gulf-countries-navigate-us-iran-talks",
       "date": "2026-04-16"
     },
@@ -31,9 +31,9 @@
       "date": "2026-04-23"
     },
     {
-      "title_en": "Ukraine Conflict Monitor: near real-time information on the ongoing war",
-      "title_tr": "Ukrayna Çatışma Monitörü: devam eden savaş hakkında neredeyse gerçek zamanlı bilgi",
-      "url": "https://acleddata.com/monitor/ukraine-conflict-monitor",
+      "title_en": "Iran war updates: Daily updates on the conflict in Iran",
+      "title_tr": "İran savaş güncellemeleri: İran'daki çatışmaya dair günlük güncellemeler",
+      "url": "https://acleddata.com/iran-crisis-live",
       "date": ""
     }
   ]
