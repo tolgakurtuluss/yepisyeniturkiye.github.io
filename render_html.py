@@ -79,7 +79,13 @@ def latest_pub_of(c: dict) -> str:
 
 
 def sort_clusters(clusters: list[dict]) -> list[dict]:
+    """Diversity-first for the convergent strip (multi-source wins)."""
     return sorted(clusters, key=lambda c: (diversity_of(c), latest_pub_of(c)), reverse=True)
+
+
+def sort_by_recency(clusters: list[dict]) -> list[dict]:
+    """Recency-first for region cards (latest story wins, convergence is a chip)."""
+    return sorted(clusters, key=lambda c: (latest_pub_of(c), diversity_of(c)), reverse=True)
 
 
 def partition_by_region(clusters: list[dict], src_region: dict[str, str]) -> dict[str, list[dict]]:
@@ -234,7 +240,7 @@ def render_index(clusters: list[dict], by_region: dict[str, list[dict]],
     def render_row(regions: list[str]) -> str:
         row_parts = ['<section class="grid">']
         for r in regions:
-            region_clusters = sort_clusters(by_region.get(r, []))
+            region_clusters = sort_by_recency(by_region.get(r, []))
             top = region_clusters[:TOP_PER_REGION_ON_INDEX]
             tr_label, en_label = REGION_LABELS[r]
             total = len(region_clusters)
@@ -287,7 +293,7 @@ def render_region(region: str, region_clusters: list[dict],
         f' <span class="count" style="color:var(--fg-dimmer);">· {len(region_clusters)} cluster</span>'
         f'</h2>'
     )
-    for c in sort_clusters(region_clusters):
+    for c in sort_by_recency(region_clusters):
         parts.append(render_cluster(c, compact=False))
     parts.append('</section>')
     parts.append(render_osint_section(sources, osint_content))
