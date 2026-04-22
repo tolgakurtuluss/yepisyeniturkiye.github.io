@@ -4,165 +4,290 @@ title: Yepisyeni Türkiye — Ortadoğu ve Kuzey Afrika
 
 # Ortadoğu ve Kuzey Afrika / Middle East & North Africa
 
-**2026-04-21 — 11 küme / cluster**
+**2026-04-22 — 23 küme / cluster**
 
 Ana sayfa / home: [`index.md`](../index.md)  |  Gösterge paneli / dashboard: [`dashboard.md`](../dashboard.md)  |  Bölgeler / regions: [Latin America](../regions/latam.md) · [Africa](../regions/africa.md) · [Asia](../regions/asia.md) · [Europe](../regions/eu.md) · [United Kingdom](../regions/uk.md) · [United States](../regions/us.md) · [Global](../regions/global.md)
 
 ---
 
-### 1. Lübnan'da ateşkes yürürlüğe girerken İran Hürmüz Boğazı'nı yeniden açtı
-*Ceasefire takes effect in Lebanon as Iran reopens Strait of Hormuz*
+### 1. İran Hürmüz Boğazı'nı Yeniden Açtı, Lübnan Ateşkesi Yürürlüğe Girdi
+*Iran Reopens Strait of Hormuz as Lebanon Ceasefire Takes Hold*
 
-İsrail ve Lübnan arasında ateşkes yürürlüğe girdi, İran ateşkesle koordineli olarak Hürmüz Boğazı'nın tamamen yeniden açıldığını duyurdu. Raporlar, İran'ın ateşkes için baskı yaptığını, İsrail'in ise ABD'nin çekimserlik çağrılarına rağmen saldırıları sürdürdüğünü gösteriyor. Boğazın yeniden açılmasının süresi ateşkesin istikrarına bağlı olup müzakereler ileride zorluklar olduğunu gösteriyor.
+İran, İsrail ile Lübnan arasındaki ateşkesin yürürlüğe girmesinin ardından Hürmüz Boğazı'nı yeniden açarken, ABD Trump yönetiminde ablukayı sürdürdü. Ateşkesin ardından binlerce kişi güney Lübnan'a döndü. İsrail'in 'Kara Çarşamba' katliamı, ailelerin kimlik tespiti için DNA testi yapmasına yol açtı. Analistler, ateşkesin İsrail'in yayılmacı hedeflerini durdurmayabileceğini belirtiyor. MintPress News'e göre BAE, ABD-İsrail'in İran savaşında gözetleme ve saldırıları kolaylaştırma gibi gölge bir rol oynadı.
 
-*A ceasefire between Israel and Lebanon has taken effect, with Iran announcing the full reopening of the Strait of Hormuz in coordination with the truce. Reports indicate Iran pressured for the ceasefire, while Israel continued attacks despite U.S. calls for restraint. The longevity of the strait reopening depends on the ceasefire's stability, with negotiations showing challenges ahead.*
+*Iran reopened the Strait of Hormuz after a ceasefire between Israel and Lebanon took effect, while the US maintained a blockade under Trump. Thousands returned to southern Lebanon as the ceasefire held. Israel's 'Black Wednesday' massacre left families using DNA tests to identify remains. Analysts suggest the ceasefire may not halt Israel's expansionist ambitions. MintPress News reports that the UAE played a shadow role in the US-Israeli war on Iran, providing surveillance and enabling strikes.*
 
 **Kaynaklar / Sources:**
-- [Liberation News](https://liberationnews.org/five-lies-about-lebanon-exposed/)  *2026-04-19 13:00* — Exposing five lies about Lebanon’s resistance
-- [BreakThrough News](https://www.youtube.com/watch?v=B3PiSJx-PLo)  *2026-04-18 07:36* — LIVE: Iran Forces Lebanon Ceasefire. Will Trump Restrain Israel?
-- [People's Dispatch](https://peoplesdispatch.org/2026/04/17/iran-fully-opens-strait-of-hormuz-following-ceasefire-deal-in-lebanon/)  *2026-04-17 21:43* — Iran fully opens Strait of Hormuz following ceasefire deal in Lebanon
-- [BreakThrough News](https://www.youtube.com/watch?v=FVnfcbvHeXk)  *2026-04-17 20:52* — Iran Forces Lebanon Ceasefire | Prof. Mohammad Marandi
 - [The Real News Network](https://therealnews.com/iran-strait-of-hormuz-israel-lebanon-truce-trump-blockade)  *2026-04-17 17:11* — Iran reopens Strait of Hormuz after Israel-Lebanon truce as Trump continues blockade
 - [DropSite News](https://www.dropsitenews.com/p/iran-opens-strait-of-hormuz-lebanon-ceasefire)  *2026-04-17 14:37* — Iran opens Strait of Hormuz; Thousands return to southern Lebanon as ceasefire takes hold; House rejects Iran resolution by one vote
+- [The Intercept](https://theintercept.com/2026/04/17/lebanon-israel-black-wednesday-bombing-id-dna/)  *2026-04-17 13:57* — Israel’s “Black Wednesday” Massacre Leaves Lebanese Families Giving DNA to ID Loved Ones’ Remains
 - [Mondoweiss](https://mondoweiss.net/2026/04/trump-may-want-out-of-the-iran-war-but-the-first-round-of-negotiations-showed-the-challenges-ahead/)  *2026-04-17 13:42* — Trump may want out of the Iran war, but the first round of negotiations showed the challenges ahead
+- [+972 Magazine](https://www.972mag.com/israel-lebanon-ceasefire/)  *2026-04-16 21:10* — Why the ceasefire in Lebanon won’t stop Israel’s expansionist ambitions
+- [MintPress News](https://www.mintpressnews.com/not-neutral-inside-the-uaes-shadow-role-in-the-us-israeli-war-on-iran/290870/)  *2026-04-16 20:12* — Not Neutral: Inside The UAE’s Shadow Role In the US-Israeli War on Iran
 
 ---
 
-### 2. Şiddetin normalleşmesi üzerine düşünceler arasında Filistinli mahkumlar anılıyor
-*Palestinian prisoners commemorated amid reflections on normalization of violence*
+### 2. İsrail ateşkese rağmen Gazze'de yardım çalışanlarını öldürmeye devam ediyor
+*Israel continues killing aid workers in Gaza despite ceasefire*
 
-Filistinli Mahkumlar Günü, tüm Filistinli mahkumların serbest bırakılması çağrılarıyla kutlandı, onların direncini ve küresel dayanışma hareketlerinin rolünü vurguladı. Bir yazar, 7 Ekim'den bu yana hissedilen parçalanmışlık üzerine düşünüyor, günlük yaşam ile Arap ve Müslüman hayatlarına yönelik şiddetin normalleşmesi arasında sıkışmış durumda.
+Truthout ve Mondoweiss, İsrail'in ateşkesin yedinci ayında Gazze'de insani yardım çalışanlarına saldırmaya devam ettiğini ve temel yardımı engellemeyi amaçladığını bildirdi. Abluka, UNRWA, WFP, WHO ve diğer BM kuruluşlarının çalışmalarını baltaladı.
 
-*Palestinian Prisoners Day has been marked with calls for the release of all Palestinian prisoners, highlighting their resilience and the role of global solidarity movements. A writer reflects on the fragmentation felt since October 7, caught between daily life and the normalization of violence against Arab and Muslim lives.*
+*Truthout and Mondoweiss report that Israel continues to attack humanitarian aid workers in Gaza seven months into the ceasefire, aiming to block essential aid. The blockade has undermined UNRWA, WFP, WHO, and other UN agencies.*
 
 **Kaynaklar / Sources:**
-- [Mondoweiss](https://mondoweiss.net/2026/04/bearing-witness-to-the-parts-of-the-whole/)  *2026-04-18 15:05* — Bearing witness to the parts of the whole
-- [People's Dispatch](https://peoplesdispatch.org/2026/04/17/we-will-never-abandon-our-prisoners-alone-in-their-struggle-says-former-palestinian-prisoner/)  *2026-04-17 23:34* — “We will never abandon our prisoners alone in their struggle,” says former Palestinian prisoner
-- [Liberation News](https://liberationnews.org/on-palestinian-prisoners-day-the-world-demands-freedom-for-all-palestinians-held-hostage/)  *2026-04-17 17:51* — On Palestinian Prisoners Day the world demands freedom for all Palestinians held hostage
+- [Truthout](https://truthout.org/articles/israel-continues-to-kill-aid-workers-in-gaza-seven-months-into-the-ceasefire/)  *2026-04-20 16:13* — Israel Continues to Kill Aid Workers in Gaza 7 Months Into the Ceasefire
+- [Mondoweiss](https://mondoweiss.net/2026/04/israel-is-still-killing-aid-workers-in-gaza/)  *2026-04-20 13:16* — Israel is (still) killing aid workers in Gaza
 
 ---
 
-### 3. Gazalı siviller devam eden İsrail saldırısı altında zor koşullarla karşı karşıya
-*Gaza civilians face dire conditions amid ongoing Israeli assault*
+### 3. İsrail, değişen siyasi ortamda Batı Şeria yerleşimlerini genişletiyor
+*Israel expands West Bank settlements amid shifting political landscape*
 
-Gazalı siviller çadır kentlerde yaşıyor ve hayatta kalanlar hayatlarını trajik olarak tanımlıyor, araştırmalara göre binlerce kişi kayboldu. İsrail, uluslararası ilginin İran ve Lübnan'a kaymasıyla Gazze'ye yönelik saldırısını azalan dikkatle sürdürüyor.
+Mondoweiss, İsrail'in Batı Şeria'da yerleşim inşasını hızlandırdığını, bunun ABD siyasetindeki olası değişiklikler ve İran'ın konumu nedeniyle cezasızlık penceresinin kapanmasına bağlı olduğunu bildiriyor.
 
-*Civilians in Gaza are living in tent cities with survivors describing their lives as tragic, while thousands have disappeared according to investigations. Israel has continued its assault on Gaza with reduced international attention as focus shifts to Iran and Lebanon.*
-
-**Kaynaklar / Sources:**
-- [The Real News Network](https://therealnews.com/let-me-show-you-survivors-cling-to-life-in-gazas-tent-cities)  *2026-04-16 16:05* — ‘Let me show you’: Survivors cling to life in Gaza’s tent cities
-- [+972 Magazine](https://www.972mag.com/podcast-disappeared-of-gaza/)  *2026-04-16 13:00* — PODCAST: The disappeared of Gaza
-- [DropSite News](https://www.dropsitenews.com/p/gaza-children-killed-israel-genocide)  *2026-04-16 10:57* — “My Daughter Went Out to Learn, Not to Fight”: Gaza Grieves More Children Killed by Israel
-
----
-
-### 4. İsrail'e askeri yardıma ilişkin ABD siyasi hamleleri eleştiri ve destekle karşılaşıyor
-*US political moves on Israel military aid face criticism and support*
-
-J Street'in İsrail'e askeri yardımı kesme çağrısı, hiçbir şeyi değiştirmeyen bir halkla ilişkiler taktiği olarak eleştiriliyor. Bu arada, Senato Demokratlarının %75'inden fazlası tarihi bir oylamada İsrail'e silah satışını engellemek için oy kullandı. Anketler, birkaç eyalette seçmenlerin çoğunluğunun bu tür kararları desteklediğini gösteriyor.
-
-*J Street's call to cut off military aid to Israel is criticized as a PR gambit that changes nothing. Meanwhile, over 75% of Senate Democrats voted to block arms sales to Israel in a historic vote, with polls showing majority voter support for such resolutions in several states.*
-
-**Kaynaklar / Sources:**
-- [The Real News Network](https://therealnews.com/j-streets-military-aid-pr)  *2026-04-16 15:32* — J Street’s ‘cut off military aid’ PR gambit changes nothing
-- [Mondoweiss](https://mondoweiss.net/2026/04/in-historic-senate-vote-75-of-democrats-vote-to-block-arms-sales-to-israel/)  *2026-04-16 11:57* — In historic Senate vote, over 75% of Democrats vote to block arms sales to Israel
-- [Common Dreams](https://www.commondreams.org/newswire/a-majority-of-voters-support-senate-resolutions-to-block-bombs-and-bulldozers-to-israel)  *2026-04-15 20:36* — A Majority of Voters Support Senate Resolutions To Block Bombs and Bulldozers To Israel
-
----
-
-### 5. İsrail değişen siyasi ortamda Batı Şeria yerleşim genişlemesini hızlandırıyor
-*Israel accelerates West Bank settlement expansion amid changing political landscape*
-
-İsrail, ABD'deki potansiyel siyasi değişimler ve bölgesel dinamikler nedeniyle bu tür eylemler için fırsat penceresinin kapanabileceği endişesiyle Batı Şeria'da yeni yerleşimlerin onayını hızlandırıyor. Analistler, bunun Lübnan'daki ateşkes anlaşmalarının genişlemeci hedefleri durdurmasının muhtemel olmadığı, mezhepsel bölünmeleri sömürmek ve toprakları genişletmek için uzun süredir devam eden İsrail stratejilerini yansıttığını belirtiyor.
-
-*Israel is accelerating approval of new West Bank settlements, reportedly due to concerns that its window for such actions may be closing with potential political shifts in the U.S. and regional dynamics. Analysts suggest this reflects long-standing Israeli strategies to exploit sectarian divisions and expand territory, with ceasefire agreements unlikely to halt expansionist ambitions in Lebanon.*
+*Mondoweiss reports that Israel is accelerating West Bank settlement construction, citing a closing window of impunity due to potential changes in US politics and Iran's position.*
 
 **Kaynaklar / Sources:**
 - [Mondoweiss](https://mondoweiss.net/2026/04/israel-races-against-time-to-expand-west-bank-settlements-before-it-is-limited-by-new-regional-realities/)  *2026-04-19 13:30* — Israel is racing to expand West Bank settlements before new political realities end its era of impunity
-- [Mondoweiss](https://mondoweiss.net/2026/04/israels-long-history-of-stoking-sectarian-tensions-in-lebanon-and-what-it-means-for-the-ceasefire/)  *2026-04-18 11:00* — Israel’s long history of stoking sectarian tensions in Lebanon, and what it means for the ceasefire
-- [+972 Magazine](https://www.972mag.com/israel-lebanon-ceasefire/)  *2026-04-16 21:10* — Why the ceasefire in Lebanon won’t stop Israel’s expansionist ambitions
 
 ---
 
-### 6. Batı Şeria'daki Filistinliler ekonomik zorluk ve keyfi tutuklamalarla karşı karşıya
-*West Bank Palestinians face economic hardship and arbitrary arrests*
+### 4. Randa Abdel-Fattah, 7 Ekim'den bu yana yaşadığı parçalanmayı anlatıyor
+*Randa Abdel-Fattah reflects on fragmentation since October 7*
 
-İsrail 200.000'den fazla Filistinli işçinin çalışma iznini iptal ettikten sonra Batı Şeria'daki aileler ekonomik zorluk yaşıyor. Masafer Yatta'da İsrail askerleri, çoğu gözleri bağlanıp dövüldükten sonra serbest bırakılan Filistinlilere kısa süreli, keyfi tutuklamalar yapıyor.
+Mondoweiss, Randa Abdel-Fattah'ın 7 Ekim'den bu yana günlük yaşam ile Arap ve Müslüman hayatlarının canlı yayında yok edilmesinin normalleşmesi arasında sıkışıp kaldığı parçalanmışlık hissini anlatan bir yazısını yayımladı.
 
-*West Bank families are experiencing economic hardship after Israel revoked work permits for over 200,000 Palestinian laborers. In Masafer Yatta, Israeli soldiers have been conducting brief, arbitrary arrests of Palestinians, many of whom are blindfolded and beaten before release.*
+*Mondoweiss published a reflection by Randa Abdel-Fattah on feeling fragmented since October 7, caught between daily life and the normalization of live-streamed annihilation of Arab and Muslim lives.*
+
+**Kaynaklar / Sources:**
+- [Mondoweiss](https://mondoweiss.net/2026/04/bearing-witness-to-the-parts-of-the-whole/)  *2026-04-18 15:05* — Bearing witness to the parts of the whole
+
+---
+
+### 5. İsrail'in Lübnan'da mezhepsel gerilimleri körükleme geçmişi inceleniyor
+*Israel's history of stoking sectarian tensions in Lebanon examined*
+
+Mondoweiss, İsrail'in Lübnan'daki mezhepsel bölünmeleri sömürme konusundaki uzun geçmişini analiz ediyor ve ateşkesin bu stratejiyi durdurmayacağını savunuyor.
+
+*Mondoweiss analyzes Israel's long history of exploiting sectarian divisions in Lebanon, arguing that a ceasefire will not stop this strategy.*
+
+**Kaynaklar / Sources:**
+- [Mondoweiss](https://mondoweiss.net/2026/04/israels-long-history-of-stoking-sectarian-tensions-in-lebanon-and-what-it-means-for-the-ceasefire/)  *2026-04-18 11:00* — Israel’s long history of stoking sectarian tensions in Lebanon, and what it means for the ceasefire
+
+---
+
+### 6. İsrail çalışma izinlerini iptal edince Batı Şeria'daki işçiler zor durumda
+*West Bank workers struggle after Israel revokes work permits*
+
+Mondoweiss, İsrail'in 7 Ekim'den sonra 200.000'den fazla Filistinli işçinin çalışma izinlerini iptal etmesinin ardından Batı Şeria'daki ailelerin birikimlerini tükettiğini, öğün atladığını ve umudunu kaybettiğini bildiriyor.
+
+*Mondoweiss reports that after Israel revoked work permits of over 200,000 Palestinian laborers following October 7, West Bank families are burning through savings, skipping meals, and losing hope.*
 
 **Kaynaklar / Sources:**
 - [Mondoweiss](https://mondoweiss.net/2026/04/no-permit-no-work-no-future-inside-the-lives-of-west-bank-workers-crushed-by-israels-labor-ban/)  *2026-04-16 13:33* — No permit, no work, no future: inside the lives of West Bank workers crushed by Israel’s labor ban
-- [+972 Magazine](https://www.972mag.com/abductions-in-masafer-yatta/)  *2026-04-15 19:02* — Brief, arbitrary abductions: A new tool of Israeli intimidation in Masafer Yatta
 
 ---
 
-### 7. İsrail'in askeri etkisi ve politikaları yerel ve uluslararası incelemeye tabi
-*Israeli military influence and policies draw domestic and international scrutiny*
+### 7. Orbán'ın Macaristan'daki yenilgisinin AB'nin İsrail politikasını değiştirmesi beklenmiyor
+*Orbán's defeat in Hungary unlikely to shift EU Israel policy*
 
-İsrail medyası, İsrail toplumundaki yaygın askeri imgeleri ve İsrail Savunma Kuvvetleri'nin halkla ilişkiler operasyonlarını inceliyor. İsrail hükümeti, bazı suçlar için idam cezasına izin veren yasayı onayladı ve bu durum bazı siyasi gruplardan eleştiri aldı. Bu gelişmeler, İsrail'in iç politikaları ve uluslararası ilişkileri bağlamında analiz ediliyor.
+Mondoweiss, medya anlatılarına rağmen Péter Magyar'ın Macaristan'daki zaferinin AB'nin İsrail politikasını değiştirmeyeceğini, çünkü politikanın Orbán gibi neo-faşistler tarafından değil Avrupa'nın liberal çekirdeği tarafından belirlendiğini savunuyor.
 
-*Israeli media reports examine the pervasive military imagery in Israeli society and the IDF's public relations operations. The Israeli government has approved legislation allowing the death penalty for certain offenses, drawing criticism from some political groups. These developments are being analyzed in the context of Israel's domestic policies and international relations.*
-
-**Kaynaklar / Sources:**
-- [+972 Magazine](https://www.972mag.com/israel-hypermilitarism-everyday-life/)  *2026-04-10 21:17* — PHOTOS: How hypermilitarism pervades everyday life in Israel
-- [+972 Magazine](https://www.972mag.com/israelis-nightmares-iranian-hangman/)  *2026-04-09 17:50* — What Israelis can learn from the nightmares of an Iranian hangman
-- [+972 Magazine](https://www.972mag.com/inside-israeli-army-propaganda-wing/)  *2026-04-08 20:07* — Inside the Israeli army’s propaganda wing
-- [Fight Racism! Fight Imperialism!](https://revolutionarycommunist.org/middle-east/palestine/zionist-regime-passes-racist-death-sentence/)  *2026-04-06 22:14* — Zionist regime approves racist death penalty
-
----
-
-### 8. Macaristan'ın seçim sonucu AB'nin İsrail politikasını değiştirmesi olası değil
-*Hungary's election outcome unlikely to change EU policy on Israel*
-
-Netanyahu'nun bir müttefik kaybettiğine dair medya anlatılarına rağmen, Péter Magyar'ın Macaristan'da Viktor Orbán'a karşı kesin zaferinin, Orbán gibi neofaşistler yerine Avrupa'nın liberal çekirdeği tarafından belirlenen AB'nin İsrail politikasını değiştirmesi beklenmiyor.
-
-*Despite media narratives about Netanyahu losing an ally, Péter Magyar's decisive win over Viktor Orbán in Hungary is not expected to shift EU policy on Israel, which is set by Europe's liberal core rather than neofascists like Orbán.*
+*Mondoweiss argues that despite media narratives, Péter Magyar's win in Hungary will not shift EU policy on Israel, because policy is set by Europe's liberal core, not neofascists like Orbán.*
 
 **Kaynaklar / Sources:**
 - [Mondoweiss](https://mondoweiss.net/2026/04/why-viktor-orbans-defeat-in-hungary-wont-impact-european-policy-toward-israel/)  *2026-04-16 13:21* — Why Viktor Orbán’s defeat in Hungary won’t impact European policy toward Israel
 
 ---
 
-### 9. İsrailli Arap partileri seçimler öncesinde birleşik seçim ittifakı için müzakereler yapıyor
-*Israeli Arab parties negotiate unified electoral alliance ahead of elections*
+### 8. Podcast, Gazze'de kaybolan kişileri araştırıyor
+*Podcast investigates disappeared persons in Gaza*
 
-İsrail'in dört Arap partisinin liderleri birleşik bir seçim ittifakının önemi konusunda anlaşıyor ancak şartlar konusunda bölünmüş durumda, bu da yenilenmiş bir Ortak Liste'nin seçimlere kadar ayakta kalıp kalamayacağı sorusunu gündeme getiriyor.
++972 Magazine, Gazeli gazeteci Mahmud Muştaha'nın binlerce kişinin nasıl kaybolduğunu ve bunun aileleri için ne anlama geldiğini araştıran bir podcast'ini haberleştiriyor.
 
-*Leaders of Israel's four Arab parties agree on the importance of a unified electoral alliance but remain divided on the terms, raising questions about whether a renewed Joint List can survive until elections.*
+*+972 Magazine reports on a podcast by Gazan journalist Mahmoud Mushtaha tracing how thousands disappeared and what that means for their families.*
+
+**Kaynaklar / Sources:**
+- [+972 Magazine](https://www.972mag.com/podcast-disappeared-of-gaza/)  *2026-04-16 13:00* — PODCAST: The disappeared of Gaza
+
+---
+
+### 9. Senato Demokratlarının yüzde 75'inden fazlası İsrail'e silah satışını engellemek için oy kullandı
+*Over 75% of Senate Democrats vote to block arms sales to Israel*
+
+Mondoweiss, tarihi bir Senato oylamasında Demokratların yüzde 75'inden fazlasının İsrail'e silah satışını engelleme çabasını desteklediğini bildiriyor. Kararlar başarısız oldu, ancak oylama, Demokratlar arasında İsrail'e yardıma karşı artan bir fikir birliğine işaret ediyor.
+
+*Mondoweiss reports that in a historic Senate vote, over 75% of Democrats backed an effort to block weapons to Israel. The resolutions failed, but the vote signals growing Democratic consensus against aid to Israel.*
+
+**Kaynaklar / Sources:**
+- [Mondoweiss](https://mondoweiss.net/2026/04/in-historic-senate-vote-75-of-democrats-vote-to-block-arms-sales-to-israel/)  *2026-04-16 11:57* — In historic Senate vote, over 75% of Democrats vote to block arms sales to Israel
+
+---
+
+### 10. İsrail askerleri Masafer Yatta'da kısa süreli keyfi gözaltılar gerçekleştiriyor
+*Israeli soldiers conduct brief arbitrary abductions in Masafer Yatta*
+
++972 Magazine, son aylarda İsrail askerlerinin Batı Şeria'daki Masafer Yatta'da düzinelerce Filistinliyi gözaltına aldığını, birçoğunun gözleri bağlanıp dövüldükten sonra açıklama yapılmadan serbest bırakıldığını bildiriyor.
+
+*+972 Magazine reports that in recent months, Israeli soldiers have arrested dozens of West Bank Palestinians, many blindfolded and beaten, then released without explanation in Masafer Yatta.*
+
+**Kaynaklar / Sources:**
+- [+972 Magazine](https://www.972mag.com/abductions-in-masafer-yatta/)  *2026-04-15 19:02* — Brief, arbitrary abductions: A new tool of Israeli intimidation in Masafer Yatta
+
+---
+
+### 11. Yenilenen Ortak Liste, İsrail seçimleri öncesinde iç bölünmelerle karşı karşıya
+*Renewed Joint List faces internal divisions ahead of Israel elections*
+
++972 Magazine, İsrail'deki dört Arap partisinin liderlerinin birleşik bir seçim ittifakının önemi konusunda hemfikir olduğunu ancak paktın şartları konusunda bölünmüş durumda olduğunu bildiriyor.
+
+*+972 Magazine reports that leaders of Israel's four Arab parties agree on the importance of a unified electoral alliance but remain divided on the terms of the pact.*
 
 **Kaynaklar / Sources:**
 - [+972 Magazine](https://www.972mag.com/renewed-joint-list-divisions-israel-elections/)  *2026-04-14 18:58* — Can a renewed Joint List survive until Israel’s elections?
 
 ---
 
-### 10. Aktivist İsrail'in Holokost Anma Günü sireninde ayağa kalkmayı reddediyor
-*Activist refuses to stand for Israel's Holocaust Remembrance Day siren*
+### 12. Yazar, İsrail'in Holokost Anma Günü sirenine saygı duruşunda bulunmayı reddediyor
+*Writer refuses to stand for Israel's Holocaust Remembrance Day siren*
 
-Bir aktivist, soykırım işleyen bir devletin Holokost'u onurlandıramayacağını ve bu tür törenlerin kurbanların anısını kirlettiğini savunarak İsrail'in Holokost Anma Günü sireninde ayağa kalkmayacağını yazıyor.
++972 Magazine, soykırım yapan bir devletin Holokost'u onurlandıramayacağını savunan bir görüş yazısı yayınlıyor ve yazar sirene saygı duruşunda bulunmayacağını belirtiyor.
 
-*An activist writes that they will not stand for Israel's Holocaust Remembrance Day siren, arguing that a state committing genocide cannot honor the Holocaust and that such ceremonies defile victims' memory.*
+*+972 Magazine publishes an opinion piece arguing that a state committing genocide cannot claim to honor the Holocaust, and the author will not stand for the siren.*
 
 **Kaynaklar / Sources:**
 - [+972 Magazine](https://www.972mag.com/stand-israel-holocaust-remembrance-siren/)  *2026-04-13 20:08* — Why I will not stand for Israel’s Holocaust Remembrance Day siren
 
 ---
 
-### 11. Orta Doğu'daki film, sanat ve sosyal konulardaki kültürel gelişmeler ele alınıyor
-*Middle Eastern cultural developments in film, arts, and social issues covered*
+### 13. Fotoğraf denemesi İsrail'de günlük hayattaki aşırı militarizmi inceliyor
+*Photo essay examines hypermilitarism in everyday Israeli life*
 
-Middle East Eye, Irak'lı şarkıcı Kadim el-Sahir'in Londra performansı, İskenderiye'deki tarihi binaları koruma çabaları, yönetmenler Jocelyne Saab ve Oussama Fawzi'nin profilleri, Türkiye'deki Suriyeli mülteciler üzerine sanatsal çalışmalar, Arap hat sanatında bir rönesans, 2018'de Orta Doğu sinemasında dönüm noktaları, IŞİD mağduru Ezidi kadınlara yardım eden bir doktor ve Lübnan'da yasadışı kürtaj sorunları dahil Orta Doğu'daki çeşitli kültürel ve sosyal konuları kapsıyor.
++972 Magazine, askeri imgelerin kutsaldan sıradana kadar İsrail kamusal yaşamına nasıl nüfuz ettiğini ve kolektif kimliği şekillendirdiğini inceleyen bir fotoğraf denemesi yayınladı.
 
-*Middle East Eye covers various cultural and social topics in the Middle East, including Iraqi singer Kadim el-Sahir's London performance, efforts to preserve historic buildings in Alexandria, profiles of filmmakers Jocelyne Saab and Oussama Fawzi, artistic works on Syrian refugees in Turkey, a renaissance in Arabic calligraphy, milestones in Middle Eastern cinema in 2018, a doctor aiding Yazidi women victims of Islamic State, and issues of illegal abortion in Lebanon.*
+*+972 Magazine published a photo essay exploring how military imagery permeates Israeli public life, from sacred to mundane aspects, shaping collective identity.*
+
+**Kaynaklar / Sources:**
+- [+972 Magazine](https://www.972mag.com/israel-hypermilitarism-everyday-life/)  *2026-04-10 21:17* — PHOTOS: How hypermilitarism pervades everyday life in Israel
+
+---
+
+### 14. Makale, İsrail'deki idam cezası tartışmasını İranlı cellat hikayesiyle inceliyor
+*Article examines Israeli death penalty debate through Iranian hangman story*
+
++972 Magazine, İsrail idam cezasını benimserken hükümet bakanlarının bir İranlı celladın deneyimlerinden hem ilham hem de uyarı alabileceğini öne süren bir makale yayınladı.
+
+*+972 Magazine published an article suggesting that as Israel embraces the death penalty, government ministers can learn from the experiences of an Iranian hangman, offering both inspiration and caution.*
+
+**Kaynaklar / Sources:**
+- [+972 Magazine](https://www.972mag.com/israelis-nightmares-iranian-hangman/)  *2026-04-09 17:50* — What Israelis can learn from the nightmares of an Iranian hangman
+
+---
+
+### 15. Rapor, İsrail ordusunun medya operasyonlarını inceliyor
+*Report examines Israeli military's media operations*
+
++972 Magazine'in araştırması, IDF Sözcülük Birimi'nin psikolojik operasyonlar, seçici sızıntılar ve özel erişim kullanarak kamu söylemini kontrol ettiğini ve İsrail'in anlatısını yurtdışında desteklediğini ortaya koyuyor.
+
+*An investigation by +972 Magazine reveals how the IDF Spokesperson's Unit uses psychological operations, selective leaks, and exclusive access to control public discourse and promote Israel's narrative abroad.*
+
+**Kaynaklar / Sources:**
+- [+972 Magazine](https://www.972mag.com/inside-israeli-army-propaganda-wing/)  *2026-04-08 20:07* — Inside the Israeli army’s propaganda wing
+
+---
+
+### 16. Iraklı şarkıcı Kadim el-Sahir Londra'da konser verdi
+*Iraqi singer Kadim el-Sahir performs in London*
+
+Iraklı şarkıcı Kadim el-Sahir, 18 Ocak'ta Londra'da yaklaşık 4.000 kişilik bir seyirciye konser vererek umut, birlik ve neşe mesajı iletti.
+
+*Iraqi singer Kadim el-Sahir performed to a sold-out crowd of nearly 4,000 in London on January 18, delivering a message of hope, unity, and joy.*
 
 **Kaynaklar / Sources:**
 - [Middle East Eye](https://www.middleeasteye.net/news/kadim-el-sahir-how-caesar-arabic-song-wowed-london)  *2019-01-21 13:46* — Kadim el-Sahir: How the Caesar of Arabic song wowed London
+
+---
+
+### 17. Sanatçılar İskenderiye'nin tarihi binalarını kalem ve kağıtla koruyor
+*Artists use pencil and paper to preserve Alexandria's historic buildings*
+
+İskenderiye'nin tarihi binaları endişe verici bir hızla yıkılıyor ve bu durum bazılarını onları çizimlerle korumaya yöneltiyor. Liman kentinin mimari mirası tehdit altında.
+
+*Alexandria's historic buildings are being demolished at an alarming rate, prompting some to preserve them through drawings. The port city's architectural heritage is under threat.*
+
+**Kaynaklar / Sources:**
 - [Middle East Eye](https://www.middleeasteye.net/features/crumbling-bride-med-using-pencil-and-paper-preserve-alexandria)  *2019-01-20 14:46* — The crumbling ‘bride of the Med’: Using pencil and paper to preserve Alexandria
+
+---
+
+### 18. Film yapımcıları Jocelyne Saab ve Oussama Fawzi'nin profilleri
+*Profiles of filmmakers Jocelyne Saab and Oussama Fawzi*
+
+Lübnanlı film yapımcısı Jocelyne Saab ve Mısırlı film yapımcısı Oussama Fawzi'nin çalışmaları gelecek nesillere ilham verecek, ancak aynı zamanda bir uyarı niteliği taşıyor.
+
+*The work of Lebanese filmmaker Jocelyne Saab and Egyptian filmmaker Oussama Fawzi will inspire future generations, but also serves as a cautionary tale, according to a review.*
+
+**Kaynaklar / Sources:**
 - [Middle East Eye](https://www.middleeasteye.net/features/tale-two-film-mavericks-jocelyne-saab-and-oussama-fawzi)  *2019-01-16 09:55* — A tale of two film mavericks: Jocelyne Saab and Oussama Fawzi
+
+---
+
+### 19. Sanat, Türkiye'nin Suriyeli mültecilere yönelik muamelesini ele alıyor
+*Arts confront Turkey's treatment of Syrian refugees*
+
+Bir Türk yazar ve bir film yönetmeni, Suriyeli mültecileri eserlerinin merkezine koyarak onları anlatılmaya değer hikayeleri olan insanlar olarak tasvir ediyor ve Türkiye'deki muamelelerine dikkat çekiyor.
+
+*A Turkish author and a film director have placed Syrian refugees at the center of their works, depicting them as human beings with stories worth telling, highlighting their treatment in Turkey.*
+
+**Kaynaklar / Sources:**
 - [Middle East Eye](https://www.middleeasteye.net/features/unwanted-guests-arts-confront-turkeys-treatment-syrian-refugees)  *2019-01-14 13:09* — Unwanted guests: The arts confront Turkey's treatment of Syrian refugees
+
+---
+
+### 20. Antik Arap kufi hattatlığı yeniden canlanıyor
+*Ancient Arabic kufic calligraphy experiences revival*
+
+Kufi hattatlığı 21. yüzyılda bir rönesans yaşıyor; meraklıları, Arap Britanya Merkezi gibi kurumlarda antik yazıyı öğreniyor.
+
+*Kufic calligraphy is undergoing a 21st-century renaissance, with devotees learning the ancient script at institutions like the Arab British Centre.*
+
+**Kaynaklar / Sources:**
 - [Middle East Eye](https://www.middleeasteye.net/features/write-stuff-how-ancient-arabic-scripts-are-coming-back-life)  *2018-12-30 20:00* — The write stuff: How ancient Arabic scripts are coming back to life
+
+---
+
+### 21. 2018, Orta Doğu sineması için dönüm noktası yılı
+*2018 milestone year for Middle Eastern film*
+
+Lübnan, 2018'de Orta Doğu sinemasında en büyük çıkışı yaparak ilk Oscar yabancı dil adaylığını ve Venedik'te ilk büyük ödülünü aldı.
+
+*Lebanon made the biggest splash in Middle Eastern film in 2018, scoring its first Oscar foreign-language nomination and first major award at Venice.*
+
+**Kaynaklar / Sources:**
 - [Middle East Eye](https://www.middleeasteye.net/features/middle-eastern-film-2018-why-it-was-milestone-year)  *2018-12-25 13:32* — Middle Eastern film in 2018: Why it was a milestone year
+
+---
+
+### 22. Doktor, IŞİD mağduru Ezidi kadınlara destek oluyor
+*Doctor supports Yazidi women victims of Islamic State*
+
+Kadın doğum uzmanı Nagham Nawzat, kendi hayatına yönelik tehditlere rağmen IŞİD mağduru 1.000'den fazla Ezidi kadına temel destek sağladı.
+
+*Gynecologist Nagham Nawzat has provided essential support to more than 1,000 Yazidi women who were victims of the Islamic State, despite threats to her own life.*
+
+**Kaynaklar / Sources:**
 - [Middle East Eye](https://www.middleeasteye.net/features/doctor-giving-life-back-female-yazidi-victims-islamic-state)  *2018-10-18 10:00* — This doctor is giving life back to female Yazidi victims of Islamic State
+
+---
+
+### 23. Lübnan'da yasadışı kürtaj kadınlar için risk oluşturuyor
+*Illegal abortion in Lebanon poses risks to women*
+
+Lübnan'da her yıl binlerce kadın risklere rağmen yasadışı kürtaj yaptırıyor. Women on Web örgütü, kadınların kürtaj haplarına erişmesine yardımcı oluyor.
+
+*Thousands of women in Lebanon undergo illegal abortion every year despite risks. The organization Women on Web helps women access abortion pills.*
+
+**Kaynaklar / Sources:**
 - [Middle East Eye](https://www.middleeasteye.net/features/illegal-abortion-lebanon-i-couldnt-comprehend-how-painful-it-was)  *2018-09-20 16:45* — Illegal abortion in Lebanon: 'I couldn't comprehend how painful it was'
 
 ---
